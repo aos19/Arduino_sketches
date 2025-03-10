@@ -3,15 +3,13 @@
 ## Atividades e sketches iniciais desenvolvidas na Arduino IDE e realizadas na placa Arduino UNO R3, aliado ao uso de resistores, fios, LED's e placa protoboard.
 
 
-### Vídeos das montagens e funcionamento!
+## Vídeos das montagens e funcionamento!
 
-# Montagem de semáforo simples
+### Montagem de sequência de LED's
 https://github.com/user-attachments/assets/985621bc-1df2-4922-878e-8b3778c872cc
 
-# Montagem de sequência de LED's
+### Montagem de semáforo simples
 https://github.com/user-attachments/assets/ba2aa630-bd4b-40a9-8e2a-9611ab5923ba
-
-
 
 
 https://github.com/user-attachments/assets/b0a5f45b-fa71-4bf0-9112-f2a96ce1cb30
