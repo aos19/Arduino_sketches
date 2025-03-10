@@ -9,9 +9,6 @@
 https://github.com/user-attachments/assets/985621bc-1df2-4922-878e-8b3778c872cc
 
 ### Montagem de semáforo simples
-https://github.com/user-attachments/assets/ba2aa630-bd4b-40a9-8e2a-9611ab5923ba
-
-
 https://github.com/user-attachments/assets/b0a5f45b-fa71-4bf0-9112-f2a96ce1cb30
 
 
